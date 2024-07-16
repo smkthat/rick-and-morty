@@ -1,0 +1,25 @@
+{
+  "name": "rick-and-morty",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smkthat/rick-and-morty.git"
+  },
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "Mikhail Vlasenko",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.6.0"
+  }
+}
