@@ -77,8 +77,6 @@ class DatabaseService {
     }
   }
 
-  javascript
-
   /**
    * Inserts data into the table.
    *
